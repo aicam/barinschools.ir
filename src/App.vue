@@ -44,7 +44,7 @@ export default {
 
   data: () => ({
     background_image: require('./assets/background.jpg'),
-    barin_logo: require('./assets/barin-logo.png')
+    barin_logo: require('./assets/barin-logo.png'),
   }),
 };
 </script>
